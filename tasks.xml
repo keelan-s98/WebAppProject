@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<todolist>
+  <task>
+		<Details>-Exercise</Details>
+		<Time>13:30</Time>
+		<Date>07/12/2018</Date>
+  </task>
+  <task>
+		<Details>-Read</Details>
+		<Time>22:00</Time>
+		<Date>08/12/2018</Date>
+	</task>
+	<task>
+		<Details>-Complete CA</Details>
+		<Time>11:00</Time>
+		<Date>09/12/2018</Date>
+	</task>
+  <task>
+		<Details>-Study</Details>
+		<Time>18:00</Time>
+		<Date>10/12/2018</Date>
+	</task>
+</todolist>
