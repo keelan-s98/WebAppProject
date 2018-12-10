@@ -75,16 +75,8 @@
 					<div class="col-lg-10">
 						<p id="line"></p>
 						<h6 id="con">
-							<button onclick="myFunction()">Samsung API</button>
+							<iframe src="https://calendar.google.com/calendar/embed?height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=f0e8hpm4lsirimiltf8jh0475k%40group.calendar.google.com&amp;color=%230F4B38&amp;ctz=Europe%2FDublin" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
 						</h6>
-						<p id="copy"></p>
-						<script>
-							function myFunction() {
-								var d = new Date();
-								var n =d.getFullYear();
-									document.getElementById("copy").innerHTML = n;
-							}
-						</script>
 					</div>
 				</div>
 			</div>
